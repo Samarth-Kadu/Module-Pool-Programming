@@ -68,3 +68,15 @@ Screen 200
 # Includes
 ![Screenshot (136)](https://github.com/user-attachments/assets/86ab63e7-0af7-4839-9d04-978f6538f04d)
 
+
+# Screen Painter With Wizard
+![Screenshot (139)](https://github.com/user-attachments/assets/69de5dab-4199-4c71-baa5-968601b5f730)
+![Screenshot (140)](https://github.com/user-attachments/assets/105a6d75-ff4f-4fb8-a92f-234e44dc910a)
+
+
+
+# Result
+![Screenshot (137)](https://github.com/user-attachments/assets/f3c42983-cae8-461e-b063-3f4545576c23)
+![Screenshot (138)](https://github.com/user-attachments/assets/befbcaa3-cc20-42df-82bd-2f910456c1ee)
+
+
